@@ -1,0 +1,35 @@
+--> En résumé :
+   - En java,les données sont un ensemble d'éléments stockes en mémoire e baptises pour l'occasion primitives.
+   -Pour chaque donnée que l on utilise (dans les variables par exemple),il faut préciser le type de donee
+   ce qui permet de connaitre l'occupation memoire(le nombre d'octets)ainsi que sa representation.
+   -cela peut etre : des nombres entiers ( int )
+   -                    des nombres réels ( float et double)
+   -Le booléan a : une valeur vraie ( true )
+                                              une valeur fausse ( false )
+    -nous avons character (char) qui permet de stocker un character unicode puiqu il prendra uniquement les lettres en majuscules.
+
+    -nous avons aussi les différents caracteres spéciaux:
+
+                    \t : décallage
+                    \n : nouvelle ligne
+                    \r : retour de chariot
+                    \b : retour arriere
+                    \f : nouvelle page
+
+    dans mon code je vous montrerais a la sortie unr phrase écrite avec le décalllage.
+
+
+--> Une fois que mon code est terminé, je vais dans mon github account et puis je crée son repository.
+une fois le repository cree je viens dans terminal ou éditeur de commande de intellij pour appliquer les commandes
+proposees :
+
+    $ git init
+
+    $ git add .
+
+    $ git commit -m "first commit"
+
+    $ git remote add origin https://github.com/nyamarinette/03-Types-de-donnees.git
+
+    $ git push -u origin main
+
